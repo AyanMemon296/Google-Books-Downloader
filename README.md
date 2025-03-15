@@ -1,5 +1,5 @@
 # Google-Books-Downloader
-📚 Google Books Downloader – A JavaScript script to download all available preview pages from Google Books. Run it in your browser console, scroll through the book to load pages, then type finish() to save them in a ZIP file. ⚠ Only preview pages allowed by Google can be downloaded.
+📚 Google Books Downloader – A JavaScript script to download all available preview pages from Google Books. Run it in your browser console, scroll through the book to load pages, then type `finish()` to save them in a ZIP file. ⚠ Only preview pages allowed by Google can be downloaded.
 
 # 📚 Google Books Downloader  
 
@@ -34,13 +34,18 @@ Scroll **up and down** through the book preview to load all pages you want to do
 ### 5️⃣ Download the Pages  
 Once all pages are loaded, type:  
 ```js
-finish()
+finish();
+```
+Press **Enter**, and the script will generate a ZIP file with all the saved pages.  
 
-Press Enter, and the script will generate a ZIP file with all the saved pages.
+---
 
-⚠ Important Notes
-🚫 You can only download preview pages that Google allows.
-🔒 Restricted or hidden pages cannot be accessed.
+## ⚠ Important Notes  
+🚫 **You can only download preview pages that Google allows.**  
+🔒 **Restricted or hidden pages cannot be accessed.**  
 
-📜 Disclaimer
-This script is intended for educational and personal use only. Use responsibly and respect copyright laws.
+---
+
+## 📜 Disclaimer  
+This script is intended **for educational and personal use only.** Use responsibly and respect copyright laws.  
+```
