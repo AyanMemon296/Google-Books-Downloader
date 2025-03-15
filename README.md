@@ -48,4 +48,3 @@ Press **Enter**, and the script will generate a ZIP file with all the saved page
 
 ## 📜 Disclaimer  
 This script is intended **for educational and personal use only.** Use responsibly and respect copyright laws.  
-```
